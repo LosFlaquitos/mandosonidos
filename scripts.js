@@ -35,3 +35,15 @@ document.getElementById('boton4').addEventListener('click', function() {
 document.getElementById('boton5').addEventListener('click', function() {
     toggleAudio('audio5');
 });
+
+document.getElementById('boton6').addEventListener('click', function() {
+    toggleAudio('audio6');
+});
+
+document.getElementById('boton7').addEventListener('click', function() {
+    toggleAudio('audio7');
+});
+
+document.getElementById('boton8').addEventListener('click', function() {
+    toggleAudio('audio8');
+});
